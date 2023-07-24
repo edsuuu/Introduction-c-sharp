@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\terceiro\\novoprojeto\\novoprojeto.csproj",
+      "projectUniqueName": "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\POO-Csharp\\novoprojeto\\novoprojeto.csproj",
       "projectName": "novoprojeto",
-      "projectPath": "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\terceiro\\novoprojeto\\novoprojeto.csproj",
+      "projectPath": "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\POO-Csharp\\novoprojeto\\novoprojeto.csproj",
       "packagesPath": "C:\\Users\\wN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\terceiro\\novoprojeto\\obj\\",
+      "outputPath": "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\POO-Csharp\\novoprojeto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wN\\AppData\\Roaming\\NuGet\\NuGet.Config"

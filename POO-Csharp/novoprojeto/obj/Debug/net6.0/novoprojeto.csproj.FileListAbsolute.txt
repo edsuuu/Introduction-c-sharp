@@ -1,0 +1,15 @@
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\bin\Debug\net6.0\novoprojeto.exe
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\bin\Debug\net6.0\novoprojeto.deps.json
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\bin\Debug\net6.0\novoprojeto.runtimeconfig.json
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\bin\Debug\net6.0\novoprojeto.dll
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\bin\Debug\net6.0\novoprojeto.pdb
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\obj\Debug\net6.0\novoprojeto.csproj.AssemblyReference.cache
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\obj\Debug\net6.0\novoprojeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\obj\Debug\net6.0\novoprojeto.AssemblyInfoInputs.cache
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\obj\Debug\net6.0\novoprojeto.AssemblyInfo.cs
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\obj\Debug\net6.0\novoprojeto.csproj.CoreCompileInputs.cache
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\obj\Debug\net6.0\novoprojeto.dll
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\obj\Debug\net6.0\refint\novoprojeto.dll
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\obj\Debug\net6.0\novoprojeto.pdb
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\obj\Debug\net6.0\novoprojeto.genruntimeconfig.cache
+C:\Users\wN\Documents\GitHub\Introduction-c-sharp\POO-Csharp\novoprojeto\obj\Debug\net6.0\ref\novoprojeto.dll
