@@ -1,0 +1,15 @@
+C:\Users\wN\Meu-primeiro-Projeto\bin\Debug\net7.0\Meu-primeiro-Projeto.exe
+C:\Users\wN\Meu-primeiro-Projeto\bin\Debug\net7.0\Meu-primeiro-Projeto.deps.json
+C:\Users\wN\Meu-primeiro-Projeto\bin\Debug\net7.0\Meu-primeiro-Projeto.runtimeconfig.json
+C:\Users\wN\Meu-primeiro-Projeto\bin\Debug\net7.0\Meu-primeiro-Projeto.dll
+C:\Users\wN\Meu-primeiro-Projeto\bin\Debug\net7.0\Meu-primeiro-Projeto.pdb
+C:\Users\wN\Meu-primeiro-Projeto\obj\Debug\net7.0\Meu-primeiro-Projeto.csproj.AssemblyReference.cache
+C:\Users\wN\Meu-primeiro-Projeto\obj\Debug\net7.0\Meu-primeiro-Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wN\Meu-primeiro-Projeto\obj\Debug\net7.0\Meu-primeiro-Projeto.AssemblyInfoInputs.cache
+C:\Users\wN\Meu-primeiro-Projeto\obj\Debug\net7.0\Meu-primeiro-Projeto.AssemblyInfo.cs
+C:\Users\wN\Meu-primeiro-Projeto\obj\Debug\net7.0\Meu-primeiro-Projeto.csproj.CoreCompileInputs.cache
+C:\Users\wN\Meu-primeiro-Projeto\obj\Debug\net7.0\Meu-primeiro-Projeto.dll
+C:\Users\wN\Meu-primeiro-Projeto\obj\Debug\net7.0\refint\Meu-primeiro-Projeto.dll
+C:\Users\wN\Meu-primeiro-Projeto\obj\Debug\net7.0\Meu-primeiro-Projeto.pdb
+C:\Users\wN\Meu-primeiro-Projeto\obj\Debug\net7.0\Meu-primeiro-Projeto.genruntimeconfig.cache
+C:\Users\wN\Meu-primeiro-Projeto\obj\Debug\net7.0\ref\Meu-primeiro-Projeto.dll
