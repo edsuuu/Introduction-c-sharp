@@ -1,0 +1,10 @@
+- Comandos para poder usar o DOTNET
+
+//Comandos
+dotnet new console -n NomeDoProjeto -f --use-program-main 
+
+- new para novos -
+
+"-n" nome do projeto a frente 
+
+"-f" versao do dotnet

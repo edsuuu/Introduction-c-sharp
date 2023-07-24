@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\introdução\\Meu-primeiro-Projeto.csproj": {}
+    "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\terceiro\\novoprojeto\\novoprojeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\introdução\\Meu-primeiro-Projeto.csproj": {
+    "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\terceiro\\novoprojeto\\novoprojeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\introdução\\Meu-primeiro-Projeto.csproj",
-        "projectName": "Meu-primeiro-Projeto",
-        "projectPath": "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\introdução\\Meu-primeiro-Projeto.csproj",
+        "projectUniqueName": "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\terceiro\\novoprojeto\\novoprojeto.csproj",
+        "projectName": "novoprojeto",
+        "projectPath": "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\terceiro\\novoprojeto\\novoprojeto.csproj",
         "packagesPath": "C:\\Users\\wN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\introdução\\obj\\",
+        "outputPath": "C:\\Users\\wN\\Documents\\GitHub\\Introduction-c-sharp\\terceiro\\novoprojeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
