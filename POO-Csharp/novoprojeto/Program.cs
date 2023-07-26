@@ -18,7 +18,7 @@ class Program
 
 public class Caneta 
 {
-    public string cor;
+    public string? Cor;
 
     public double Carga;
     //double é um tipo de variavel que pode receber numeros decimais '1,50' numeros quebrados
@@ -43,9 +43,9 @@ public class Caneta
 
 public class PessoaClasse
 {
-    public string Nome;
+    public string? Nome;
     public int Idade;
-    public string Sexo;
+    public string? Sexo;
 }
 
 //apenas os atributos da classe podem ter ; e a classe finaliza apenas com a {}
