@@ -21,12 +21,3 @@ public class Escola
     }
 
 }
-
-public Computador()
-{
-    placaMae = "Asus";
-    processador = "Intel Core i7";
-    memoria = "8GB";
-    hd = "1TB";
-
-}
